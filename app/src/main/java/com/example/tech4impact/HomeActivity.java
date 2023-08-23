@@ -26,6 +26,8 @@ public class HomeActivity extends AppCompatActivity {
                 navigateToDestinationActivity();
 
             }
+
+
         });
     }
 
