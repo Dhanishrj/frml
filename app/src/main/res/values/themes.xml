@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tech4Impact" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Tech4Impact" parent="Base.Theme.Tech4Impact" />
+
+
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize theme attributes here -->
+        <!-- For example, change the colorPrimary and colorAccent -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorAccent">@color/orange</item>
+        <item name="colorSecondary">@color/orange</item>
+    </style>
+</resources>
